@@ -2,7 +2,32 @@ body{
     background-color: #FF69B4;
 }
 
+#introJumbo{
+    background-image: url(../images/Sample.jpg);
+    color: white;
+    border-radius: 10px;
+    border-color: #FF69B4;
+}
+
 #initnavbar{
     padding: 5px;
     border: 1px dotted purple;
+}
+
+.pretextmusic{
+    margin: 60px 0px 0px 0px;
+    border: 1px solid black;
+    color: white;
+    text-shadow: 1px 0px blue, 1px 0px black;
+    background-image: url(../images/Sample.jpg);
+    bottom: 100px;
+}
+
+#arrowimage{
+    margin: 20px 0px 0px 0px;
+    top: 20px;
+}
+
+#playlist{
+    
 }
